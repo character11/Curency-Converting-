@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\CurencyConverting\CurencyConverting\bin\Debug\CurencyConverting.exe.config
+C:\Users\HP\source\repos\CurencyConverting\CurencyConverting\bin\Debug\CurencyConverting.exe
+C:\Users\HP\source\repos\CurencyConverting\CurencyConverting\bin\Debug\CurencyConverting.pdb
+C:\Users\HP\source\repos\CurencyConverting\CurencyConverting\obj\Debug\CurencyConverting.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\CurencyConverting\CurencyConverting\obj\Debug\CurencyConverting.Form1.resources
+C:\Users\HP\source\repos\CurencyConverting\CurencyConverting\obj\Debug\CurencyConverting.Properties.Resources.resources
+C:\Users\HP\source\repos\CurencyConverting\CurencyConverting\obj\Debug\CurencyConverting.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\CurencyConverting\CurencyConverting\obj\Debug\CurencyConverting.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CurencyConverting\CurencyConverting\obj\Debug\CurencyConverting.exe
+C:\Users\HP\source\repos\CurencyConverting\CurencyConverting\obj\Debug\CurencyConverting.pdb
